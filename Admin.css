@@ -1,0 +1,11 @@
+.team{
+    background: #4FBFC8;
+}
+.row{
+justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.body{
+ background: #4FBFC8;}
