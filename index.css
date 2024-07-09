@@ -1,0 +1,93 @@
+.main-header{
+ position: relative;
+    background-image: url(instituto1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 550px;
+    
+    
+}
+
+.background-overlay{
+ position: absolute;
+    background: rgba(48, 51, 107, .7);
+    top: 0;
+    left: 0;
+    width: 1527;
+    height: 550px;
+    
+}
+
+
+.contenedor{
+    
+    width: 60%;
+    height: 500px;
+    padding-top: 0px;
+   
+    }
+
+.nav{
+    width: 100%;
+    height: 100px;
+   
+    
+}
+
+.na   {
+    color: white;
+    
+}
+
+
+ h1;h2; h3;h4{
+    font-family: "Times New Romans"
+}
+
+
+button a{
+    text-decoration: none;
+}
+
+button{
+    background-color: azure;
+}
+
+p{
+    text-align: justify;
+}
+
+.logo{
+    padding-right: 5%;
+    
+}
+
+
+.col-lg-4{
+    border: 2px solid #50CDE4;
+    border-radius: 10px;
+   
+    
+}
+
+
+.navbar{
+    background-color: #4FBFC8    ;
+    font-family: "Times New Romas";
+    color: white;
+     position: sticky;
+  
+            
+}
+.offcanvas{
+    color: white;
+    background-color: #50CDE4;
+    font-family: "Times New Romas"
+}
+
+
+.copy{
+    background-color: #4FBFC8;
+    height: 48px;
+
+}
