@@ -1,0 +1,27 @@
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+    margin-left: auto;
+}
+
+.navbar .nav-item .nav-link{
+    color: #fff;
+}
+
+.logo{
+    border-radius: 10px;
+}
+.main-header{
+    position: relative;
+    background-image: url(1.jpeg);
+    background-size: cover;
+    min-height: 550px;
+}
+
+video{
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+   
+    
+}
